@@ -14,31 +14,31 @@
     
     "imageList": [
         {
-            "id": 11,
+            "id": "11",
             "title": "title11",
             "content": "content11",
             "image": "http://via.placeholder.com/100x100/ffffff/000000?text=sample%20photo11"
         },
         {
-            "id": 12,
+            "id": "12",
             "title": "title12",
             "content": "content12",
             "image": "http://via.placeholder.com/100x100/000000/ffffff?text=sample%20photo12"
         },
         {
-            "id": 13,
+            "id": "13",
             "title": "title13",
             "content": "content13",
             "image": "http://via.placeholder.com/100x100/0000ff/ffffff?text=sample%20photo13"
         },
         {
-            "id": 14,
+            "id": "14",
             "title": "title14",
             "content": "content14",
             "image": "http://via.placeholder.com/100x100/00ff00/ffffff?text=sample%20photo14"
         },
         {
-            "id": 15,
+            "id": "15",
             "title": "title15",
             "content": "content15",
             "image": "http://via.placeholder.com/100x100/ff0000/ffffff?text=sample%20photo15"
@@ -46,18 +46,18 @@
     ],
     
     "comments": {
-        11: [
+        "11": [
             "test1",
             "test2",
             "test3"
         ],
-        12: [
+        "12": [
             "test!",
             "test@"
         ],
-        13: [
+        "13": [
         ],
-        14: [
+        "14": [
             "test1!",
             "test2@",
             "test1!",
@@ -67,7 +67,7 @@
             "test1!",
             "test2@",
         ],
-        15: [
+        "15": [
         ]
     }
 }
