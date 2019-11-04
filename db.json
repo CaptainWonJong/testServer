@@ -43,31 +43,5 @@
             "content": "content15",
             "image": "http://via.placeholder.com/100x100/ff0000/ffffff?text=sample%20photo15"
         }
-    ],
-    
-    "comments": {
-        "11": [
-            "test1",
-            "test2",
-            "test3"
-        ],
-        "12": [
-            "test!",
-            "test@"
-        ],
-        "13": [
-        ],
-        "14": [
-            "test1!",
-            "test2@",
-            "test1!",
-            "test2@",
-            "test1!",
-            "test2@",
-            "test1!",
-            "test2@",
-        ],
-        "15": [
-        ]
-    }
+    ]
 }
